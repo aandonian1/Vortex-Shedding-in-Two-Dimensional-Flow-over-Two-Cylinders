@@ -7,3 +7,5 @@ https://bit.ly/alan-ModelSetup-Tutorial
 
 The results of the parametric sweep for two cylinders at Re of 7000 can be found in the following path:
 Vortex-Shedding-in-Two-Dimensional-Flow-over-Two-Cylinders/two cylinder turbulent sweep/post processing/
+
+Also included is the matlab live code (.mlx) used to get the power spectra and the Strouhal number (more detail in the videos). 
