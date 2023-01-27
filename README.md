@@ -15,15 +15,19 @@ Also included is the matlab live code (.mlx) used to get the power spectra and t
 single cylinder:
 you can find configuration files for laminar flow past a single cylinder in the following directory:
 Vortex-Shedding-in-Two-Dimensional-Flow-over-Two-Cylinders/single cylinder laminar/
+
 single cylinder turbulent simulations configuration files at Re 7000 can be found in the following directory:
 Vortex-Shedding-in-Two-Dimensional-Flow-over-Two-Cylinders/single cylinder turbulent/
+
 
 Two Cylinder:
 configuration files for the two cylinder laminar simulations can be found in the following directory:
 Vortex-Shedding-in-Two-Dimensional-Flow-over-Two-Cylinders/two cylinder laminar/numerical model/
+
 the MATLAB postprocessing code images can be found in the following directory 
 (more detail of the code can be found in the video):
 Vortex-Shedding-in-Two-Dimensional-Flow-over-Two-Cylinders/two cylinder laminar/post processing/
+
 similarly, you can find turbulent flow past two cylinders, configuration files,
 and post processing code in the following directory:
 Vortex-Shedding-in-Two-Dimensional-Flow-over-Two-Cylinders/two cylinder turbulent/
