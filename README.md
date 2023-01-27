@@ -5,6 +5,8 @@ this repository houses the configuration files for a 2D simulation of flow past 
 Here is the youtube link of the playlist that goes through how to setup the model in COMSOL:
 https://bit.ly/alan-ModelSetup-Tutorial
 
+Presentations used in the youtube videos are also in this repository.
+
 The results of the parametric sweep for two cylinders at Re of 7000 can be found in the following directory:
 Vortex-Shedding-in-Two-Dimensional-Flow-over-Two-Cylinders/two cylinder turbulent sweep/post processing/
 
